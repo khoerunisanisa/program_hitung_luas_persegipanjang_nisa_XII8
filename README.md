@@ -49,14 +49,14 @@ Lengkapi identitas berikut:
 
 | Identitas | Keterangan |
 |---|---|
-| Nama Lengkap | Isi nama lengkap |
-| Kelas | XII-... |
-| Nomor Absen | ... |
-| Username GitHub | ... |
+| Nama Lengkap | khoerunisa |
+| Kelas | XII-8 |
+| Nomor Absen | 18 |
+| Username GitHub | khoerunisanisa |
 
 ## B. IDENTITAS PROYEK
 
-Tuliskan informasi proyek yang dikerjakan:
+
 
 - **Judul Proyek:** Isi judul program.
 - **Deskripsi:** Jelaskan tujuan dan fungsi program.
